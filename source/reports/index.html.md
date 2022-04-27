@@ -20,4 +20,4 @@ includes:
   - reports/dashboard
   
 search: true
----  
+--- 
